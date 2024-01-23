@@ -1,0 +1,138 @@
+.frame {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.frame .overlap-group-wrapper {
+  background-color: #000000;
+  width: 100%;
+  height: 100%;
+}
+
+.frame .overlap-group {
+  position: relative;
+  height: 200rem;
+  background-image: url(./img/background-1.png);
+  background-size: cover;
+  background-position: 50% 50%;
+}
+
+.frame .maincontainerbg {
+  position: absolute;
+  width: 75%;
+  height: 190rem;
+  top: 2%;
+  left: 13%;
+  object-fit: cover;
+}
+
+.frame .more-info {
+  position: absolute;
+  width: 83rem;
+  height: 32rem;
+  top: 43%;
+  left: 15%;
+  object-fit: cover;
+}
+
+.frame .roadmap {
+  position: absolute;
+  width: 83rem;
+  height: 32rem;
+  top: 61%;
+  left: 15%;
+  object-fit: cover;
+}
+
+.frame .game-preview {
+  position: absolute;
+  width: 83rem;
+  height: 32rem;
+  top: 79%;
+  left: 15%;
+  object-fit: cover;
+}
+
+.frame .tokenomics {
+  position: absolute;
+  width: 83rem;
+  height: 32rem;
+  top: 25%;
+  left: 15%;
+  object-fit: cover;
+}
+
+.frame .about {
+  position: absolute;
+  width: 51rem;
+  height: 20rem;
+  top: 14%;
+  left: 15%;
+  object-fit: cover;
+}
+
+.frame .join {
+  position: absolute;
+  width: 31rem;
+  height: 20rem;
+  top: 14%;
+  left: 59%;
+  object-fit: cover;
+}
+
+.frame .header {
+  position: absolute;
+  width: 70%;
+  height: 10%;
+  top: 3%;
+  left: 15%;
+  object-fit: cover;
+}
+
+.frame .ttbutton {
+  position: absolute;
+  width: 12rem;
+  height: 3rem;
+  top: 22rem;
+  left: 41rem;
+  object-fit: cover;
+}
+
+.frame .buybtn {
+  position: absolute;
+  width: 12rem;
+  height: 3rem;
+  top: 22rem;
+  left: 66rem;
+  object-fit: cover;
+}
+
+.frame .playbtn {
+  position: absolute;
+  width: 12rem;
+  height: 3rem;
+  top: 22rem;
+  left: 86.3rem;
+  object-fit: cover;
+}
+
+.frame .tgbutton {
+  position: absolute;
+  width: 12rem;
+  height: 3rem;
+  top: 22rem;
+  left: 20.6rem;
+  object-fit: cover;
+}
+
+.frame .click-button {
+  position: absolute;
+  width: 17rem;
+  height: 3.5rem;
+  top: 22.2%;
+  left: 65%;
+  object-fit: cover;
+}
+* {cursor: url(https://cur.cursors-4u.net/games/gam-10/gam942.ani), url(https://cur.cursors-4u.net/games/gam-10/gam942.png), auto !important;} 
