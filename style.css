@@ -1,3 +1,4 @@
+
 .frame {
   display: flex;
   flex-direction: row;
@@ -13,6 +14,7 @@
 
 .frame .overlap-group {
   position: relative;
+  width: 100%;
   height: 200rem;
   background-image: url(./img/background-1.png);
   background-size: cover;
@@ -21,118 +23,118 @@
 
 .frame .maincontainerbg {
   position: absolute;
-  width: 75%;
-  height: 190rem;
-  top: 2%;
-  left: 13%;
+  width: 82%;
+  height: 85%;
+  top: 1%;
+  left: 10%;
   object-fit: cover;
 }
 
 .frame .more-info {
   position: absolute;
-  width: 83rem;
-  height: 32rem;
-  top: 43%;
-  left: 15%;
+  width: 78%;
+  height: 14.4%;
+  top: 37%;
+  left: 12%;
   object-fit: cover;
 }
 
 .frame .roadmap {
   position: absolute;
-  width: 83rem;
-  height: 32rem;
-  top: 61%;
-  left: 15%;
+  width: 78%;
+  height: 14.4%;
+  top: 53%;
+  left: 12%;
   object-fit: cover;
 }
 
 .frame .game-preview {
   position: absolute;
-  width: 83rem;
-  height: 32rem;
-  top: 79%;
-  left: 15%;
+  width: 78%;
+  height: 14.4%;
+  top: 69%;
+  left: 12%;
   object-fit: cover;
 }
 
 .frame .tokenomics {
   position: absolute;
-  width: 83rem;
-  height: 32rem;
-  top: 25%;
-  left: 15%;
+  width: 78%;
+  height: 14.4%;
+  top: 21%;
+  left: 12%;
   object-fit: cover;
 }
 
 .frame .about {
   position: absolute;
-  width: 51rem;
-  height: 20rem;
-  top: 14%;
-  left: 15%;
+  width: 49%;
+  height: 8.5%;
+  top: 11%;
+  left: 12%;
   object-fit: cover;
 }
 
 .frame .join {
   position: absolute;
-  width: 31rem;
-  height: 20rem;
-  top: 14%;
-  left: 59%;
+  width: 27.5%;
+  height: 8.5%;
+  top: 11%;
+  left: 62.5%;
   object-fit: cover;
 }
 
 .frame .header {
   position: absolute;
-  width: 70%;
-  height: 10%;
-  top: 3%;
-  left: 15%;
+  width: 78%;
+  height: 8%;
+  top: 2%;
+  left: 12%;
   object-fit: cover;
 }
 
 .frame .ttbutton {
   position: absolute;
-  width: 12rem;
-  height: 3rem;
-  top: 22rem;
-  left: 41rem;
+  width: 12%;
+  height: 1.5%;
+  top: 8.5%;
+  left: 34.5%;
   object-fit: cover;
 }
 
 .frame .buybtn {
   position: absolute;
-  width: 12rem;
-  height: 3rem;
-  top: 22rem;
-  left: 66rem;
+  width: 12%;
+  height: 1.5%;
+  top: 8.5%;
+  left: 56%;
   object-fit: cover;
 }
 
 .frame .playbtn {
   position: absolute;
-  width: 12rem;
-  height: 3rem;
-  top: 22rem;
-  left: 86.3rem;
+  width: 12%;
+  height: 1.5%;
+  top: 8.5%;
+  left: 73%;
   object-fit: cover;
 }
 
 .frame .tgbutton {
   position: absolute;
-  width: 12rem;
-  height: 3rem;
-  top: 22rem;
-  left: 20.6rem;
+  width: 12%;
+  height: 1.5%;
+  top: 8.5%;
+  left: 17.2%;
   object-fit: cover;
 }
 
 .frame .click-button {
   position: absolute;
-  width: 17rem;
-  height: 3.5rem;
-  top: 22.2%;
-  left: 65%;
+  width: 15%;
+  height: 1.5%;
+  top: 18%;
+  left: 68.7%;
   object-fit: cover;
 }
 * {cursor: url(https://cur.cursors-4u.net/games/gam-10/gam942.ani), url(https://cur.cursors-4u.net/games/gam-10/gam942.png), auto !important;} 
